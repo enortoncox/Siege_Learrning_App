@@ -1,0 +1,20 @@
+Bank:0
+Border:18.05878
+Chalet:0
+Clubhouse:0
+Coastline:0
+Consulate:0
+Favela:0
+Fortress:0
+Hereford:0
+House:0
+Kafe:0
+Kanal:0
+Oregon:0
+Outback:0
+Plane:0
+Skyscraper:0
+Theme Park:0
+Tower:0
+Villa:0
+Yacht:0
